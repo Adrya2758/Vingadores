@@ -5,3 +5,10 @@ ul {
   display: inline-block;
   vertical-align: top;
 }
+h1{
+  color: #a87b05;
+  }
+
+.frase{
+  font-size: 25px; color: #a87b05; font-family: cursive;
+}
