@@ -1,5 +1,5 @@
 body {
-  background: #000000
+  background: black
 }
 ul {
   display: inline-block;
@@ -11,4 +11,16 @@ h1{
 
 .frase{
   font-size: 25px; color: #a87b05; font-family: cursive;
+}
+ul {
+  display: inline-block;
+}
+#ving{
+  display: inline-block;
+}
+.ving{
+  font-size: 70px;
+  color: white;
+  display: inline-block;
+
 }
