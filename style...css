@@ -1,6 +1,13 @@
 body {
   background: black
 }
+
+.logo li{
+position: relative;
+margin: 0px;
+width: 1000PX;
+}
+
 ul {
   display: inline-block;
   vertical-align: top;
@@ -15,12 +22,22 @@ h1{
 ul {
   display: inline-block;
 }
-#ving{
-  display: inline-block;
+
+.OsVingadores li{
+display: inline-block;
+font-size: 20px;
+width: 24%;
+text-align: center;
+padding: 0px  0px;
 }
+
 .ving{
-  font-size: 70px;
+  font-size: 40px;
   color: white;
   display: inline-block;
-
+  float: top;
+  display: inline-block;
+  height: 50px;
+  width: 10300px;
+  padding: 50px 135px;
 }
