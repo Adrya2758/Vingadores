@@ -8,6 +8,21 @@ margin: 0px;
 width: 1000PX;
 }
 
+.avengers {
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.acriacao {
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
 ul {
   display: inline-block;
   vertical-align: top;
@@ -21,6 +36,14 @@ h1{
 }
 ul {
   display: inline-block;
+}
+
+.filmevingadores{
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .ving li{
